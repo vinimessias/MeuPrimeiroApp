@@ -1,0 +1,1 @@
+import {Home,Login,Rastreio} from './views';
